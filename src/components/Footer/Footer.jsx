@@ -30,11 +30,11 @@ const Footer = () => {
             <div>
               <p className="flex items-center gap-2">
                 <FaPhone />
-                +1 (123) 456-7890
+                +2348106948976
               </p>
               <p className="flex items-center gap-2 mt-2">
                 {" "}
-                <FaMapLocation /> Noida, Uttar Pradesh
+                <FaMapLocation /> Enugu, Nigeria
               </p>
             </div>
           </motion.div>
